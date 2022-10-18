@@ -1,0 +1,47 @@
+= Monaco : =
+{{Infobox Pays
+ | nom_français            = Principauté de Monaco
+ | image_drapeau           = Flag of Monaco.svg
+ | lien_drapeau            = Drapeau de Monaco
+ | image_blason            = Coat of Arms of Monaco.svg
+ | lien_blason             = Armoiries de Monaco
+ | image_carte             = Location Monaco Europe.png
+ | image_carte2            = Monaco-carte.jpg
+ | capitale                = [[Commune de Monaco]]<ref>Monaco est à la fois une ville et un État. [[Monaco-Ville]] est le quartier où est situé le [[Palais de Monaco|Palais princier]].</ref>
+ | lien_villes             = Quartiers de Monaco
+ | titre_plus_grande_ville = Quartier principal
+ | plus_grande_ville       = [[Monte-Carlo]]
+ | superficie_rang         = 223
+ | superficie_totale       = environ 2.02
+ | population_totale       = {{nombre|39150}}<ref name="IMSEE-2021">{{article|url=https://www.imsee.mc/Population-et-emploi%7Ctitre=Arrêté Ministériel {{numéro|2022}}-2022-201 du 19 avril 2022 relatif à l’actualisation annuelle du chiffre officiel de la population de la Principauté de Monaco|journal=IMSEE (Monaco Statistiques) et Bulletin officiel de la principauté de Monaco|année=2022}}.</ref>
+ | population_année        = 2022
+ | densité                 = {{nombre|19381}}
+ | type_indépendance       = Indépendance ''de facto'' de la [[république de Gênes]] (vassale du Saint-Empire) <br><br>Indépendance ''de jure'' du [[Saint-Empire romain germanique]]
+ | pays_indépendance       = 
+ | date_indépendance       = {{date-|8|janvier|1297}}<br><br><br><br><br><br>{{date-|5|novembre|1524}}<ref name="ht">Comité national des traditions monégasque, [http://www.traditions-monaco.com/histoire_02.php?menu=1 ''Histoire et tradition''].</ref>
+ | IDH                     = 0.956
+ | langues                 = [[Français]] et [[Monégasque]]
+ | nom_parlement           = [[Conseil national (Monaco)|Conseil national]]
+ | pays frontaliers        = {{France}}
+ | géoloc-pays             = Alpes-Maritimes
+}}
+'''Monaco''' est une petite '''ville-État indépendante''' sur la côte méditerranéenne '''française''' connue pour ses casinos haut de gamme, son port de plaisance est rempli de yachts et son prestigieux Grand Prix de Formule 1 qui a lieu dans les rues de Monaco une fois par an. '''Monte-Carlo''', est le principal quartier de Monaco, ou s'y trouve de jolies casinos d'époque et la Salle Garnier, l'opéra. Ce quartier chic est également très connu pour ses nombreux hôtels luxueux, ses boutiques, ses discothèques et ses restaurants. 
+
+=== Les lieux incontournables de Monaco : ===
+
+* ''[http://www.monacomania.com/monaco-ville-le-rocher.php Le Rocher]''
+* ''[[Casino de Monte-Carlo|Le casino de Monte-Carlo]]'' 
+* ''[[Jardin exotique de Monaco|Le jardin Exotique]]'' 
+* ''[[Musée océanographique de Monaco|Le Musée Océanographique]]'' 
+* ''[[Palais de Monaco|Le Palais Princier]]''
+* ''[[Monte-Carlo|Le quartier de Monte-Carlo]]''
+* ''[[Cathédrale Notre-Dame-Immaculée de Monaco|La Cathédrale Saint-Nicolas]]'' 
+* ''[[Jardins Saint-Martin|Les Jardins Saint-Martin]]''  
+* ''[[Port Hercule|Le port Hercule]]''  
+* ''[[Stade Louis-II|Le stade Louis II]]''
+
+=== - Association sportive de Monaco: ===
+En 1924, 3 club de Monaco ont fusionné, parmis lesquelles sont "[[ASPTT Nice|L'ASPTT de Beausoleil]], le [https://monaco-hebdo.com/actualites/sport/riviera-electric-challenge/ Riviera AC de Monaco], le [http://www.asm.asso.mc/html/historique.html Monte-Carlo Swimming Club]. Depuis les années 2000, l'AS Monaco FC revendique sur son site internet une date de fondation au 1er aout 1919 pour le club de football et au 23 aout 1924 pour le club omnisports ce qui est une erreur. Le club omnisports ''est une Association sportive de Monaco'', et son équipe de football a été fondés en 1924. En 1929 c'est l'affiliation à la FFFA de la Société sportive Herculis, qui a donné son numéro d'affiliation à l'AS Monaco en 1924. Pourtant " 1919", a été reprise par de nombreux organismes comme de l'équipe ou de l'uefa.
+
+=== - La gastronomie de Monaco : ===
+La gastronomie de Monaco est inspirée des saveurs provençales et italiennes. Elle offre une très grande diversité de plats à base d'huile d'olive mais aussi de condiments, mais également des légumes, poissons et fruits de mer. Nous pouvons retrouvés plusieurs de ces spécialités lors des marchés, qui sont préparer par des cuisinier.
